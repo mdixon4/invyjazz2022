@@ -1,0 +1,13 @@
+{
+  ":name": "FrontAid CMS Example Model",
+  ":description": "This is an example model for the FrontAid CMS.",
+  "bands": {
+    ":name": "Bands",
+    ":description": "This is the bands collection.",
+    ":items": {
+      "bandName": { ":type": "line" },
+      "bio": { ":type": "text" },
+      "imageLink": { ":type": "line" }
+    }
+  }
+}
